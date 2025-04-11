@@ -157,22 +157,22 @@ export default function Home() {
     {
       title: "RedHat Enterprise Programmer EX-183",
       description: "Certified in enterprise application development",
-      link: "#",
+      link: "https://www.credly.com/badges/db72f2f2-54d7-471a-a47d-b35f8793f8bb/public_url",
     },
     {
       title: "Automation Anywhere RPA",
       description: "Proficiency in Robotic Process Automation using Automation Anywhere",
-      link: "#",
+      link: "https://certificates.automationanywhere.com/8b0e6c38-7810-4e6a-b99a-1cb07c343e12#acc.oxLKr1NT",
     },
     {
       title: "Salesforce AI Associate",
       description: "Skills in implementing AI solutions within the Salesforce ecosystem",
-      link: "#",
+      link: "https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=o7/cNN84/p48SNIvI1u5fKLODlp+nqcnBPIwuq56aov+1UaioLfQS/H7N/wX3r+v",
     },
     {
-      title: "Infosys Springboard (React)",
-      description: "Advanced React development skills certified by Infosys",
-      link: "#",
+      title: "Frontend Developer (React)",
+      description: "Advanced React development skills certified by HackerRank",
+      link: "https://www.hackerrank.com/certificates/ddf4b46e8407",
     },
   ]
 
@@ -282,7 +282,7 @@ export default function Home() {
                   <span>GitHub</span>
                 </Button>
               </a>
-              <a href="/resume.pdf" download className="inline-block">
+              <a href="./musunuri_himateja.pdf" download className="inline-block">
                 <Button
                   variant="secondary"
                   className="transition-all duration-300 transform hover:scale-105 bg-gray-800 hover:bg-gray-700 flex items-center gap-2 text-base px-6 py-6"
@@ -662,7 +662,7 @@ export default function Home() {
                     </Button>
                   </motion.div>
                 </a>
-                <a href="/resume.pdf" download>
+                <a href="./musunuri_himateja.pdf" download>
                   <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                     <Button className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 w-full sm:w-auto">
                       <Download size={20} />
