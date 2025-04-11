@@ -1,0 +1,177 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R
+>>
+endobj
+
+2 0 obj
+<< /Type /Outlines
+/Count 0
+>>
+endobj
+
+3 0 obj
+<< /Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+
+4 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 612 792]
+/Contents 5 0 R
+/Resources << /ProcSet 6 0 R
+/Font << /F1 7 0 R >>
+>>
+>>
+endobj
+
+5 0 obj
+<< /Length 2074 >>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(Musunuri Himateja) Tj
+/F1 10 Tf
+0 -15 Td
+(2200030397cseh@gmail.com — +91-8919827449 — linkedin.com/in/himateja — github.com/himateja28) Tj
+
+/F1 12 Tf
+-50 -30 Td
+(1 PROFESSIONAL SUMMARY) Tj
+/F1 10 Tf
+0 -15 Td
+(A highly motivated Computer Science and Engineering student at KL University with a GPA of 9.45/10. Experienced) Tj
+0 -12 Td
+(in full-stack web development and cloud computing. Skilled in Java, Python, React, and Spring Boot. Led projects) Tj
+0 -12 Td
+(such as an E-Visa processing system, a politician-citizen interaction platform, and an online banking app. Strong) Tj
+0 -12 Td
+(analytical and problem-solving skills.) Tj
+
+/F1 12 Tf
+0 -25 Td
+(2 EDUCATION) Tj
+/F1 10 Tf
+0 -15 Td
+(KL University, India July 2022 – May 2026) Tj
+0 -12 Td
+(Bachelor of Technology in Computer Science and Engineering) Tj
+0 -12 Td
+(Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, DBMS, Web Development) Tj
+0 -12 Td
+(GPA: 9.45/10) Tj
+0 -12 Td
+(Expected Graduation: May 2026) Tj
+
+/F1 12 Tf
+0 -25 Td
+(3 SKILLS) Tj
+/F1 10 Tf
+0 -15 Td
+(Programming Languages: Java, C++, Python, SQL) Tj
+0 -12 Td
+(Web Technologies: HTML, CSS, JavaScript, React, Bootstrap) Tj
+0 -12 Td
+(Databases: MySQL, MongoDB) Tj
+0 -12 Td
+(Tools & Frameworks: Git, Spring Boot, Docker) Tj
+0 -12 Td
+(Concepts: OOP, Data Structures, Algorithms, Cloud Computing) Tj
+
+/F1 12 Tf
+0 -25 Td
+(4 EXPERIENCE) Tj
+/F1 10 Tf
+0 -15 Td
+(Web Development Intern) Tj
+0 -12 Td
+(Eduskills Foundation, Remote AUG 2024 – SEP 2024) Tj
+0 -12 Td
+(• Developed responsive web pages using HTML, CSS, and React.) Tj
+0 -12 Td
+(• Integrated APIs for scalable web applications.) Tj
+0 -12 Td
+(• Collaborated with UI/UX designers on user-friendly interfaces.) Tj
+
+/F1 12 Tf
+0 -25 Td
+(5 PROJECTS) Tj
+/F1 10 Tf
+0 -15 Td
+(Online E-Visa Processing System Dec 2024) Tj
+0 -12 Td
+(Technologies: MERN Stack) Tj
+0 -12 Td
+(• Developed an E-Visa system with user login, document upload, and status tracking.) Tj
+0 -12 Td
+(• Gained knowledge on file upload and retrieval of files from cloud.) Tj
+0 -12 Td
+(• Collaborated with team for efficient implement of project.) Tj
+
+0 -15 Td
+(Politician-Citizen Interaction System July 2024) Tj
+0 -12 Td
+(Technologies: React, Spring Boot, MongoDB) Tj
+0 -12 Td
+(• Built a platform for citizens to report issues and politicians to provide solutions.) Tj
+0 -12 Td
+(• Implemented JWT-based authentication for secure user login and role-based access control.) Tj
+
+0 -15 Td
+(Online Banking Application May 2024) Tj
+0 -12 Td
+(Technologies: Spring Boot, MySQL, Spring Security) Tj
+0 -12 Td
+(• Created an online banking system with account creation, transaction management, and user authentication.) Tj
+
+/F1 12 Tf
+0 -25 Td
+(6 ACHIEVEMENTS & CERTIFICATIONS) Tj
+/F1 10 Tf
+0 -15 Td
+(• RedHat Enterprise Programmer EX-183 Certified View Credentials) Tj
+0 -12 Td
+(• Automation Anywhere RPA Certification View Credentials) Tj
+0 -12 Td
+(• Salesforce AI Associate View Credentials) Tj
+ET
+endstream
+endobj
+
+6 0 obj
+[/PDF /Text]
+endobj
+
+7 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000009 00000 n
+0000000074 00000 n
+0000000120 00000 n
+0000000179 00000 n
+0000000322 00000 n
+0000002449 00000 n
+0000002479 00000 n
+
+trailer
+<< /Size 8
+/Root 1 0 R
+>>
+startxref
+2586
+%%EOF
