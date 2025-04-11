@@ -282,7 +282,7 @@ export default function Home() {
                   <span>GitHub</span>
                 </Button>
               </a>
-              <a href="./musunuri_himateja.pdf" download className="inline-block">
+              <a href="public/Musunuri_Himateja_Resume.pdf" download className="inline-block">
                 <Button
                   variant="secondary"
                   className="transition-all duration-300 transform hover:scale-105 bg-gray-800 hover:bg-gray-700 flex items-center gap-2 text-base px-6 py-6"
@@ -662,7 +662,7 @@ export default function Home() {
                     </Button>
                   </motion.div>
                 </a>
-                <a href="./musunuri_himateja.pdf" download>
+                <a href="public/Musunuri_Himateja_Resume.pdf" download>
                   <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                     <Button className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 w-full sm:w-auto">
                       <Download size={20} />
