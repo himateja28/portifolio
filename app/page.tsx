@@ -1,4 +1,4 @@
-T"use client"
+"use client"
 
 import type React from "react"
 
@@ -300,13 +300,13 @@ export default function Home() {
               className="mt-12 flex flex-wrap gap-4"
             >
               <a
-                href="https://www.linkedin.com/in/himateja-musunuri-28a6621b1/"
+                href="https://linkedin.com/in/himateja"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-400 hover:text-purple-400 transition-colors"
               >
                 <Linkedin size={16} />
-                <span>linkedin.com/in/himateja-musunuri</span>
+                <span>linkedin.com/in/himateja</span>
               </a>
               <a
                 href="mailto:2200030397cseh@gmail.com"
@@ -314,6 +314,13 @@ export default function Home() {
               >
                 <Mail size={16} />
                 <span>2200030397cseh@gmail.com</span>
+              </a>
+              <a
+                href="tel:+918919827449"
+                className="flex items-center gap-2 text-gray-400 hover:text-purple-400 transition-colors"
+              >
+                <Phone size={16} />
+                <span>+91-8919827449</span>
               </a>
             </motion.div>
           </motion.div>
@@ -612,6 +619,22 @@ export default function Home() {
                 </div>
               </motion.div>
 
+              <motion.div
+                variants={itemVariants}
+                className="flex items-center gap-4 bg-gray-800/50 p-4 rounded-xl border border-gray-700/50"
+                whileHover={{
+                  scale: 1.02,
+                  transition: { duration: 0.2 },
+                }}
+              >
+                <div className="bg-purple-600 p-3 rounded-full">
+                  <Phone size={24} />
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold">Phone</h3>
+                  <p className="text-gray-300">+91-8919827449</p>
+                </div>
+              </motion.div>
 
               <motion.div
                 variants={itemVariants}
@@ -626,7 +649,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold">LinkedIn</h3>
-                  <p className="text-gray-300">linkedin.com/in/himateja-musunuri</p>
+                  <p className="text-gray-300">linkedin.com/in/himateja</p>
                 </div>
               </motion.div>
 
