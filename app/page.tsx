@@ -282,7 +282,7 @@ export default function Home() {
                   <span>GitHub</span>
                 </Button>
               </a>
-              <a href="/Musunuri_Himateja_Resume.pdf" download className="inline-block">
+              <a href="/2200030397_HimatejaMusunuri.pdf" download className="inline-block">
                 <Button
                   variant="secondary"
                   className="transition-all duration-300 transform hover:scale-105 bg-gray-800 hover:bg-gray-700 flex items-center gap-2 text-base px-6 py-6"
