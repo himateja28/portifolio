@@ -662,7 +662,7 @@ export default function Home() {
                     </Button>
                   </motion.div>
                 </a>
-                <a href="/Musunuri_Himateja_Resume.pdf" download>
+                <a href="/2200030397_HimatejaMusunuri.pdf" download>
                   <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                     <Button className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 w-full sm:w-auto">
                       <Download size={20} />
