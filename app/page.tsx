@@ -300,13 +300,13 @@ export default function Home() {
               className="mt-12 flex flex-wrap gap-4"
             >
               <a
-                href="https://linkedin.com/in/himateja"
+                href="https://www.linkedin.com/in/himateja-musunuri-28a6621b1/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-400 hover:text-purple-400 transition-colors"
               >
                 <Linkedin size={16} />
-                <span>linkedin.com/in/himateja</span>
+                <span>linkedin.com/in/himateja-musunuri-28a6621b1</span>
               </a>
               <a
                 href="mailto:2200030397cseh@gmail.com"
